@@ -2,8 +2,14 @@
 
 * [Ishtaras](README.md)
 
-## Cosmogonía
+## Cosmogonía y Fe
 
-* [Las religiones de Ishtara](cosmogonia-1/las-religiones-de-ishtara.md)
-* [La Octa Prima](cosmogonia-1/la-octa-prima.md)
+* [Las religiones de Ishtaras](cosmogonia/las-religiones-de-ishtara.md)
+* [La Octa Prima](cosmogonia/la-octa-prima.md)
+
+## Geografía
+
+* [El mundo](geografia/el-mundo.md)
+
+## Naciones
 
