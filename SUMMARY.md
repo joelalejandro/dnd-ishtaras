@@ -13,3 +13,6 @@
 
 ## Naciones
 
+* [Amia](naciones/amia.md)
+* [Laolisia](naciones/laolisia.md)
+
