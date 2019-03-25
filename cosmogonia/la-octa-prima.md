@@ -3,6 +3,8 @@
 > _**«Porque Diecisa murió, y renació con las sombras y las luces que encendió»**  
 > - La Cantata del Perdón, 32 del C.R., Anónimo_
 
+{% embed url="https://soundcloud.com/themostepicmusic/audiomachine-guardians-at-the" caption="Banda sonora de La Octa Prima" %}
+
 La Octa Prima representa la conjugación armoniosa y perfecta encarnada en Diecisa, madre de la Vida y la Muerte, hija de la Luz y de la Sombra, la esposa del Fuego y la amante del Hielo, la reina de lo Conocido y lo Desconocido, tras rebelarse ante los Mayores Custodios en los momentos finales del Cosmos por Morir.
 
 ### El Cosmos por Morir \(16.384 C.M. - 0 A.V.\) 
