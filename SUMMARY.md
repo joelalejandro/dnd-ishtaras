@@ -6,6 +6,7 @@
 
 * [Las religiones de Ishtaras](cosmogonia/las-religiones-de-ishtara.md)
 * [La Octa Prima](cosmogonia/la-octa-prima.md)
+* [Las Almas Carentes](cosmogonia/las-almas-carentes.md)
 
 ## Geografía
 

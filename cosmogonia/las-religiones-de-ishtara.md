@@ -6,6 +6,10 @@
 
 La Octa Prima representa la conjugación armoniosa y perfecta encarnada en Diecisa, madre de la Vida y la Muerte, hija de la Luz y de la Sombra, la esposa del Fuego y la amante del Hielo, la reina de lo Conocido y lo Desconocido. Según el mito, Diecisa era la última Custodia del Cosmos por Morir, sentenciado a desaparecer en el olvido por los pecados de los mortales. Por órdenes de su Mayor, Quinzania, las ocho luces y las ocho sombras debían desvanecerse, y Diecisa era la responsable de destruir la última fuente de vida antes de sumirse en su eterno descanso.
 
+### [Las Almas Carentes](las-almas-carentes.md)
+
+Un grupo disidente, desprendido de la Orden de la Octa Prima, que niega el sacrificio de Diecisa y considera que el mundo está sumido en el pecado y en los años de lo que la Octa Prima denomina el Cosmos por Morir.
+
 ### La lucha por el poder
 
 ![Distribuci&#xF3;n del poder religioso en Ishtaras](../.gitbook/assets/image%20%282%29.png)
